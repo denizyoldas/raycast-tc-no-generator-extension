@@ -12,15 +12,15 @@
   "commands": [
     {
       "name": "tc-no-generate",
-      "title": "tc no generate",
-      "subtitle": "Tc NO Generator",
+      "title": "Generate Tc No",
+      "subtitle": "Tc No",
       "description": "tc no üretip kopyalar",
       "mode": "no-view"
     },
     {
       "name": "last-tc",
-      "title": "last tc no copy",
-      "subtitle": "last tc no copy",
+      "title": "Copy last Tc No",
+      "subtitle": "TC No",
       "description": "son üretilen TcNo kopyalar",
       "mode": "no-view"
     }
